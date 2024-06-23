@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Developer with more than 10 years of experience, I have a Bachelor’s Degree in Computer Science. I love programming, designing systems, and databases.
+I am a Full Stack Developer with more than 12 years of experience, I have a Bachelor’s Degree in Computer Science. I love programming, designing systems, and databases.
 
 I have developed with .NET, Node.js, Angular, React, and Vuejs. I have great experience designing SQL (SQL Server, MySQL) and NoSQL (MongoDB) databases and systems' architectures with REST APIs, and Monoliths.
 
