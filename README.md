@@ -35,7 +35,7 @@ Frameworks<br/><br/>
 <div align="center" style="margin-top:20px">
 Dbs, clouds and others<br/><br/>
 <img src="https://img.shields.io/badge/AWS-%20?style=for-the-badge&logo=amazonwebservices&color=%23FF9900">
-<img src="https://img.shields.io/badge/google_cloud-%20?style=for-the-badge&logo=googlecloud&logoColor=%23fff&color=%234285F4">
+<img src="https://img.shields.io/badge/firebase-%20?style=for-the-badge&logo=firebase&color=%23DD2C00">
 <img src="https://img.shields.io/badge/MySql-%20?style=for-the-badge&logo=mysql&logoColor=%23FFF&color=%234479A1">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=%23fff"/>
 <img src="https://img.shields.io/badge/oracle-%20?style=for-the-badge&logo=oracle&color=%23F80000">
