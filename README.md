@@ -1,6 +1,7 @@
 ### Hello world 😁
 
-I am a Full Stack Developer, I have a Bachelor’s Degree in Computer Science. I love coding, architecting systems, and databases.
+I'm a Software Engineer Fullstack with a Bachelor’s Degree in Computer Science. 
+I have contributed to the success of multiple companies by delivering software solutions with a main focus on .NET, NodeJS, Typescript, Nextjs, and React Native.
 
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/reinaldolejr/">
