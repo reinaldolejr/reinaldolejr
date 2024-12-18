@@ -43,4 +43,4 @@ Dbs, clouds and others<br/><br/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=%23fff"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=reinaldolejr&style=flat-square&label=Profile+Views)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freinaldolejr%2Fhit-counter&count_bg=%230B66C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://github.com/reinaldolejr)
