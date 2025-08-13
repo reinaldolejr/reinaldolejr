@@ -13,4 +13,3 @@ I have contributed to the success of multiple companies by delivering software s
 - 📫 How to reach me: reinaldolejr@gmail.com
 - ⚡ Fun fact: I love sports ⚽🏀🏈 and play video game 🎮
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldolejr&layout=compact)](https://github.com/reinaldolejr/github-readme-stats)
