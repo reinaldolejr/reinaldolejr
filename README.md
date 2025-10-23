@@ -15,8 +15,4 @@ I have contributed to the success of multiple companies by delivering software s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reinaldolejr)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reinaldolejr@gmail.com)
 
-## 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldolejr&layout=compact&theme=radical)](https://github.com/reinaldolejr)
-
 
